@@ -80,9 +80,9 @@ Crazy Cattle 3D is a unique battle royale game where you control an explosive sh
 
 ## 📝 License
 
-Crazy Cattle 3D is developed and maintained by the Crazy Cattle 3D team. All rights reserved.
+Crazy Cattle 3D is developed and maintained by Anna (@4nn4t4t on X).
 
 
 ---
 
-Made with ❤️ by the Crazy Cattle 3D Team 
+Made with ❤️ by the Crazy Cattle 3D 
