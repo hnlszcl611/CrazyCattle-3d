@@ -6,6 +6,8 @@
 
 Crazy Cattle 3D is a unique battle royale game where you control an explosive sheep in a physics-based combat environment. Experience the thrill of mastering momentum-based movement and strategic collisions in three distinct global locations.
 
+ [Play Crazy Cattle 3d Now!](https://crazycattle3d.net)
+
 ## ✨ Game Features
 
 ### 🚀 Revolutionary Physics System
